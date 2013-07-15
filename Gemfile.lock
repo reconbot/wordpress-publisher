@@ -15,6 +15,7 @@ GEM
       slop (~> 3.4)
     pry-nav (0.2.3)
       pry (~> 0.9.10)
+    rake (10.1.0)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
@@ -31,5 +32,6 @@ PLATFORMS
 DEPENDENCIES
   pry
   pry-nav
+  rake
   rspec
   wordpress_publisher!
